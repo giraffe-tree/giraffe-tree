@@ -179,4 +179,5 @@ Matthew Skelton 和 Manuel Pais 在《Team Topologies》中定义了四种团队
 
 ---
 
-*Written on 2026-03-24*
+*Ernest Chen*
+*2026-03-24*
